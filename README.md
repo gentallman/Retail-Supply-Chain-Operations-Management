@@ -1,4 +1,8 @@
 <h1 align="center"> Retail Supply Chain Operations Management </h1>
+<p align="center">
+  <img src="https://github.com/gentallman/Retail-Supply-Chain-Operations-Management/assets/78334851/62a06f03-d0eb-4dea-81e7-2b14ea9cd353" width="300">
+</p>
+
 
 **Problem Statement:**
 Investigate and optimize inventory management and sales performance in a retail supply chain using historical transaction data. The goal is to analyze patterns in product purchases and sales to improve forecasting accuracy, optimize stock levels, and enhance overall operational efficiency.
@@ -17,6 +21,10 @@ List the main files and their purposes:
 - **Products.xlsx**: Spreadsheet with product details.
 - **Suppliers.xlsx**: Spreadsheet with supplier details.
 
+## Home
+![Home](https://github.com/gentallman/Retail-Supply-Chain-Operations-Management/assets/78334851/13d75dfc-adb2-442f-bf73-b4ac3137ce65)
+
+On the homepage, I included links to three dashboard pages. Additionally, I highlighted five key performance indicators (KPIs) related to total purchase quantity and amount, total sales quantity and amount, and closing stock quantity. Towards the bottom of the page, I implemented a scrolling section displaying the names of closing stock items along with their respective quantities.
 
 
 ## Dashboards
