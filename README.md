@@ -4,7 +4,8 @@
 </p>
 
 
-**Problem Statement:**
+### **Problem Statement:**
+
 Investigate and optimize inventory management and sales performance in a retail supply chain using historical transaction data. The goal is to analyze patterns in product purchases and sales to improve forecasting accuracy, optimize stock levels, and enhance overall operational efficiency.
 
 This problem statement encapsulates the key objectives of your analysis:
