@@ -53,5 +53,12 @@ On the homepage, I included links to three dashboard pages. Additionally, I high
   - Graphs: Closing Stock by Product Name, Subcategory, Category.
   - Table: Category, Subcategory, Product Name, Purchase Quantity, Sale Quantity, Closing Stock.
 
+## Contact
+
+Author: [@Smit Rana](https://www.linkedin.com/in/smit98rana/)
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
 
