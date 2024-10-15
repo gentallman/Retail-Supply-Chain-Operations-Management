@@ -3,11 +3,11 @@
   <img src="https://github.com/gentallman/Retail-Supply-Chain-Operations-Management/assets/78334851/62a06f03-d0eb-4dea-81e7-2b14ea9cd353" width="300">
 </p>
 
-
+<p align="center">
 <a href="https://app.powerbi.com/view?r=eyJrIjoiMDRlMWMyOGYtYzU2Yi00YmMwLWJhOTUtOGU5Y2FiY2JmOGU5IiwidCI6IjNmMTcwMmFmLTNmNGUtNDk1ZS04YzhiLTEzNzIxZjM5YjFiMCJ9">
-  <img src="https://github.com/gentallman/Retail-Supply-Chain-Operations-Management/assets/78334851/ed21a0ff-f400-4a4d-9a6c-80c76bf137e7" alt="Live Project" width="100">
+    <img src="https://github.com/user-attachments/assets/9f720f25-43d7-461f-9949-7d942aa9a766" alt="Live Project" width="120">
 </a>
-
+</p>
 
 ### **Problem Statement:**
 
